@@ -1,6 +1,6 @@
-#Javascript Exercises Challenge 1
+# Javascript Exercises Challenge 1
 
-###1. Integer Numbers Range
+### 1. Integer Numbers Range
 
 Write a function in Javascript that having two integers x1 and x2 returns all the integers between them. If x2 es lower than x1 it should return -1
 
@@ -21,7 +21,7 @@ integerNumbersRange(11, 22)
 ```
 
 
-###2. Multiplications table
+### 2. Multiplications table
 
 Write a function that writes in the console the multiplication table (from 1 to 10)
 
@@ -44,7 +44,7 @@ multiplicationsTable()
 
 
 
-###3. Multiplications table on demand
+### 3. Multiplications table on demand
 
 Write a function that writes in the console the multiplication table (in one column) of any number passed as parameter
 
@@ -63,7 +63,7 @@ multiplicationsTableOnDemand(903)
 ```
 
 
-###4. Calculation
+### 4. Calculation
 
 Write a program that writes in the console all the multiples of 23 less than 500 and at the end writes the sum of all of them
 
@@ -89,7 +89,7 @@ calculation()
 ```
 
 
-###5. max() function
+### 5. max() function
 
 Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
 
@@ -104,7 +104,7 @@ max(40, 234)
    ```
 
 
-###6. maxOfThree() function
+### 6. maxOfThree() function
 
 Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
 
@@ -119,7 +119,7 @@ maxOfThree(1035, 24, 237)
 ```
 
 
-###7. isVowel() function
+### 7. isVowel() function
 
 Write a function that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
 
@@ -136,7 +136,7 @@ console.log(isVowel('verde'))
 ```
 
 
-###8. Hexadecimal
+### 8. Hexadecimal
 
 Writes a function that convert a hexadecimal color, "blue" for example "#0000FF" in its RGB representation rgb(0,0,255)". Give the function the name getRGB() and test it with this code
 
@@ -179,7 +179,7 @@ hexadecimal('#0000FF')
 ```
 
 
-###9. Hexadecimal enhanced
+### 9. Hexadecimal enhanced
 
 Improves the previous function so besides the conversion also identifies some basic colors:
 
